@@ -3,6 +3,12 @@ layout: page
 title: ''
 ---
 
+{:refdef: style="text-align: center;"}
+![ISMMS](/images/NYC-Skyline.jpg){:height="60%" width="60%"}
+{: refdef}
+
+<br>
+
 ## Research 
 
 In collaboration with the [Roussos Lab](http://labs.icahn.mssm.edu/roussos-lab/), we are primarily focused on developing methodologies for understanding the genetic basis of neuropsychiatric and neurodegenerative disorders.
