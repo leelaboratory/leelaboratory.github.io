@@ -3,9 +3,7 @@ layout: page
 title: ''
 ---
 
-{:refdef: style="text-align: center;"}
-![ISMMS](/images/NYC-Skyline.jpg){:height="60%" width="60%"}
-{: refdef}
+![ISMMS](/images/NYC-Skyline.jpg)
 
 <br>
 
