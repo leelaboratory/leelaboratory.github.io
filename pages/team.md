@@ -35,7 +35,7 @@ collin (dot) spencer (at) icahn (dot) mssm (dot) edu
 <img src="/images/CP.jpeg" width="184" height="196">
 
 ## Christian Porras
-#### MD/PhD Graduate student
+#### MD/PhD Graduate Student
 christian (dot) porras (at) icahn (dot) mssm (dot) edu
 
 <hr>
