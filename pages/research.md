@@ -1,7 +1,7 @@
 ---
 permalink: /research/
 layout: page
-title: 'Research'
+title: ''
 ---
 
 ## Research
