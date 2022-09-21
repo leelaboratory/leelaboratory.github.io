@@ -1,47 +1,14 @@
 ---
 layout: page
-title: ''
+title: 'Welcome to the Lee Lab'
 ---
 
 ![ISMMS](/images/NYC-Skyline.jpg)
 
 <br>
 
-## Research 
-
-In collaboration with the [Roussos Lab](http://labs.icahn.mssm.edu/roussos-lab/), we are primarily focused on developing methodologies for understanding the genetic basis of neuropsychiatric and neurodegenerative disorders.
-
-<br>
-
-### Machine Learning
-
-We frame biological problems using mathematical and statistical tools. Leveraging the wealth of single-nucleus and functional genomic data, we apply interdisciplinary approaches like statistical modeling and machine learning to interpret disease genomes.
-
-<br>
-
-{:refdef: style="text-align: center;"}
-![ESPRNN Overview](/images/ESPRNN_overview.png){:height="60%" width="60%"}
-{: refdef}
-
-<br>
-
-### Regulatory Networks and Dynamics
-
-Integrative approaches can uncover meaningful patterns and rules from large data. We identify cis-regulatory elements, build gene regulatory networks, and discover regulatory dynamics during transcription.
-
-<br>
-
-![Rewiring Schematic](/images/rewiring_schematic.png)
-
-<br>
-
-![Rewiring Highlight](/images/rewiring_highlight.png)
-
-<br>
-
-![Cellspace Highlight](/images/cellspace_overview.png)
-
-<br>
+## Single Cell Neurogenomics Group at the Center for Disease Neurogenomics
+While Neurogenomics studies have largely depended on bulk sequencing data for the past 10 to 15 years, advancements in computational power and tools are now enabling researchers to study genomics from the perspective of single cells. The Single Cell Neurogenomics Group, under the direction of [Donghoon Lee, PhD](https://icahn.mssm.edu/profiles/donghoon-lee), develops sophisticated computational and machine learning approaches to capture the underlying biological and pathological processes of neuropsychiatric diseases at the cellular level.
 
 ## Join Us
 
