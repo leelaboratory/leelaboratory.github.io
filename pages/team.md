@@ -6,7 +6,7 @@ title: 'Single Cell Neurogenomics Group at CDN'
 
 <img src="/images/DL.jpeg" width="184" height="196">
 
-### Donghoon Lee, PhD
+## Donghoon Lee, PhD
 #### Director
 donghoon (at) leelaboratory (dot) org
 
@@ -18,7 +18,7 @@ donghoon (at) leelaboratory (dot) org
 
 <img src="/images/TC.jpeg" width="184" height="196">
 
-### Tereza Clarence, PhD
+## Tereza Clarence, PhD
 #### Postdoctoral Fellow - Computational Biology
 tereza (dot) clarence (at) mssm (dot) edu
 
@@ -26,7 +26,7 @@ tereza (dot) clarence (at) mssm (dot) edu
 
 <img src="/images/CS.jpeg" width="184" height="196">
 
-### Collin Spencer
+## Collin Spencer
 #### Graduate student - Computational Biology
 collin (dot) spencer (at) icahn (dot) mssm (dot) edu
 
@@ -34,7 +34,7 @@ collin (dot) spencer (at) icahn (dot) mssm (dot) edu
 
 <img src="/images/CP.jpeg" width="184" height="196">
 
-### Christian Porras
+## Christian Porras
 #### MD/PhD Graduate student
 christian (dot) porras (at) icahn (dot) mssm (dot) edu
 
@@ -42,7 +42,7 @@ christian (dot) porras (at) icahn (dot) mssm (dot) edu
 
 <img src="/images/UNK.jpeg" width="184" height="196">
 
-### Milos Pjanic, PhD
+## Milos Pjanic, PhD
 #### Senior Scientist - Computational Biology
 milos (dot) pjanic (at) mssm (dot) edu
 
@@ -50,6 +50,6 @@ milos (dot) pjanic (at) mssm (dot) edu
 
 <img src="/images/UNK.jpeg" width="184" height="196">
 
-### Dimitrios Kyriakis
+## Dimitrios Kyriakis
 #### Visiting Graduate Student
 dimitrios (dot) kyriakis (at) mssm (dot) edu
