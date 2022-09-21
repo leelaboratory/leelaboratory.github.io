@@ -4,12 +4,10 @@ layout: page
 title: 'Team'
 ---
 
-# Single Cell Neurogenomics Group at CDN
-
 <img src="/images/DL.jpeg" width="184" height="196">
 
 ## Donghoon Lee, PhD
-#### Director
+#### Director of Single Cell Neurogenomics Group at CDN
 donghoon (at) leelaboratory (dot) org
 
 [Google Scholar](https://scholar.google.com/citations?user=_a8xSwwAAAAJ&hl=en), [CV](https://drive.google.com/file/d/1T1a_3LBeI2PBO2ioJj9NqVJeDFhf-s6Y/view)
