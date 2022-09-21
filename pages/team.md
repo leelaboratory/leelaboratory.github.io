@@ -1,10 +1,8 @@
 ---
 permalink: /team/
 layout: page
-title: ''
+title: 'Single Cell Neurogenomics Group at CDN'
 ---
-
-## Single Cell Neurogenomics Group at CDN
 
 <img src="/images/DL.jpeg" width="184" height="196">
 
