@@ -1,8 +1,10 @@
 ---
 permalink: /team/
 layout: page
-title: 'Single Cell Neurogenomics Group at CDN'
+title: 'Team'
 ---
+
+# Single Cell Neurogenomics Group at CDN
 
 <img src="/images/DL.jpeg" width="184" height="196">
 
@@ -27,7 +29,7 @@ tereza (dot) clarence (at) mssm (dot) edu
 <img src="/images/CS.jpeg" width="184" height="196">
 
 ## Collin Spencer
-#### Graduate student - Computational Biology
+#### Graduate Student - Computational Biology
 collin (dot) spencer (at) icahn (dot) mssm (dot) edu
 
 <hr>
