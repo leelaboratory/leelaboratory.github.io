@@ -1,10 +1,8 @@
 ---
 permalink: /research/
 layout: page
-title: ''
+title: 'Research'
 ---
-
-## Research
 
 We work in close collaboration with the [Roussos Lab](http://labs.icahn.mssm.edu/roussos-lab/) at the Center for Disease Neurogenomics. We are primarily focused on developing methodologies for understanding the genetic basis of neuropsychiatric and neurodegenerative disorders.
 
