@@ -1,5 +1,5 @@
 ---
-permalink: /about/
+permalink: /team/
 layout: page
 title: ''
 ---
