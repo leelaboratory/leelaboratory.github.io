@@ -4,6 +4,8 @@ layout: page
 title: 'Team'
 ---
 
+# Single Cell Neurogenomics Group
+
 <img src="/images/DL.jpeg" width="184" height="196">
 
 ## Donghoon Lee, PhD
@@ -53,3 +55,8 @@ milos (dot) pjanic (at) mssm (dot) edu
 ## Dimitrios Kyriakis
 #### Visiting Graduate Student
 dimitrios (dot) kyriakis (at) mssm (dot) edu
+
+<hr>
+
+# CDN Team
+The Center for Disease Neurogenomics is comprised of an interdisciplinary team of researchers who have expertise in multiple areas of genomics, psychiatry, and biomedical sciences. See more at https://icahn.mssm.edu/research/neurogenomics/team
