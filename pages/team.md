@@ -57,4 +57,4 @@ dimitrios (dot) kyriakis (at) mssm (dot) edu
 <hr>
 
 # The CDN Team
-The Center for Disease Neurogenomics is comprised of an interdisciplinary team of researchers who have expertise in multiple areas of genomics, psychiatry, and biomedical sciences. See more at https://icahn.mssm.edu/research/neurogenomics/team
+The Center for Disease Neurogenomics is comprised of an interdisciplinary team of researchers who have expertise in multiple areas of genomics, psychiatry, and biomedical sciences. See more at [https://icahn.mssm.edu/research/neurogenomics/team](https://icahn.mssm.edu/research/neurogenomics/team)
