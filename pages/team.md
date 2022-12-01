@@ -1,10 +1,8 @@
 ---
 permalink: /team/
 layout: page
-title: 'Team'
+title: 'The Single Cell Neurogenomics Group'
 ---
-
-# Single Cell Neurogenomics Group
 
 <img src="/images/DL.jpeg" width="184" height="196">
 
@@ -58,5 +56,5 @@ dimitrios (dot) kyriakis (at) mssm (dot) edu
 
 <hr>
 
-# CDN Team
+# The CDN Team
 The Center for Disease Neurogenomics is comprised of an interdisciplinary team of researchers who have expertise in multiple areas of genomics, psychiatry, and biomedical sciences. See more at https://icahn.mssm.edu/research/neurogenomics/team
