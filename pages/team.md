@@ -48,7 +48,7 @@ milos (dot) pjanic (at) mssm (dot) edu
 
 <hr>
 
-<img src="/images/UNK.jpeg" width="184" height="196">
+<img src="/images/DK.png" width="184" height="196">
 
 ## Dimitrios Kyriakis
 #### Visiting Graduate Student
