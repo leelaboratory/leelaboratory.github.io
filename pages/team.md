@@ -89,5 +89,16 @@ nicolas (dot) masse (at) mssm (dot) edu
 
 <hr>
 
+<img src="/images/XC.jpg" width="184" height="196">
+
+## Xuan Cao, PhD
+<p><b>
+  Postdoctoral Fellow - Computational Biology
+</b></p>
+
+xuan (dot) cao (at) mssm (dot) edu
+
+<hr>
+
 # The CDN Team
 The Center for Disease Neurogenomics is comprised of an interdisciplinary team of researchers who have expertise in multiple areas of genomics, psychiatry, and biomedical sciences. See more at [https://icahn.mssm.edu/research/neurogenomics/team](https://icahn.mssm.edu/research/neurogenomics/team)
