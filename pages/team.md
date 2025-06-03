@@ -100,5 +100,17 @@ xuan (dot) cao (at) mssm (dot) edu
 
 <hr>
 
+<img src="/images/CC.jpg" width="184" height="196">
+
+## Chia-Hsuan Chou, PhD
+<p><b>
+  Graduate Student - Computational Biology
+</b></p>
+
+chia-hsuan (dot) chou (at) icahn (dot) mssm (dot) edu
+
+<hr>
+
+
 # The CDN Team
 The Center for Disease Neurogenomics is comprised of an interdisciplinary team of researchers who have expertise in multiple areas of genomics, psychiatry, and biomedical sciences. See more at [https://icahn.mssm.edu/research/neurogenomics/team](https://icahn.mssm.edu/research/neurogenomics/team)
