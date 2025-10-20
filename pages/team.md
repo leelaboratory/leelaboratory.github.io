@@ -6,7 +6,6 @@ title: 'Single Cell Neurogenomics Group'
 
 
 
-# Current Members
 <hr>
 
 
@@ -90,7 +89,6 @@ chia-hsuan (dot) chou (at) icahn (dot) mssm (dot) edu
 
 
 # Past Members
-<hr>
 
 
 
