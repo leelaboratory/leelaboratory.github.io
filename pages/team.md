@@ -6,7 +6,7 @@ title: 'Single Cell Neurogenomics Group'
 
 
 
-<hr>
+<img src="/images/SingleCellNeurogenomics.png" height="450">
 
 
 
