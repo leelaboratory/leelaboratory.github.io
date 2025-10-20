@@ -1,10 +1,12 @@
 ---
 permalink: /team/
 layout: page
-title: 'The Single Cell Neurogenomics Group'
+title: 'Single Cell Neurogenomics Group'
 ---
 
-# Single Cell Neurogenomics Group
+
+
+# Current Members
 
 
 
@@ -36,6 +38,7 @@ tereza (dot) clarence (at) mssm (dot) edu
 
 
 ## Dimitrios Kyriakis, PhD
+<img src="/images/DK.png" width="184" height="196">
 <p><b>
   Postdoctoral Fellow - Computational Biology
 </b></p>
